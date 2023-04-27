@@ -4,7 +4,7 @@ A fun tool for finding the country associated with a phone number and generating
 
 Disclaimer: This tool is not intended for OSINT purposes. Please use it responsibly.
 
-
+![Image](https://github.com/Fr1zx/PhoneFr1zxInfo/blob/main/for%20example.jpeg)
 
 Usage
 
