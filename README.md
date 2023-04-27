@@ -9,7 +9,9 @@ Disclaimer: This tool is not intended for OSINT purposes. Please use it responsi
 Usage
 
 
-Clone this repository to your local machine.
+Clone this repository to your local machine:
+
+https://github.com/Fr1zx/PhoneFr1zxInfo
 
 Navigate to the cloned repository's directory in your terminal.
 
